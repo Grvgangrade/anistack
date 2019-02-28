@@ -1,5 +1,7 @@
 'use strict';
 
+hello
+
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var slugin = require('slugin');
